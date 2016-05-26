@@ -1,0 +1,348 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SimpleGameAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{46, 450}";
+			sepNavWindowFrame = "{{61, 173}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SimpleGameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 468}}";
+			sepNavSelRange = "{400, 0}";
+			sepNavVisRange = "{0, 401}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SimpleGame */ = {
+		activeExec = 0;
+		executables = (
+			CF33D574117F6CF90071CBB1 /* SimpleGame */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SimpleGameViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {586, 1339}}";
+			sepNavSelRange = "{475, 0}";
+			sepNavVisRange = "{1505, 554}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SimpleGameViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 6136}}";
+			sepNavSelRange = "{3183, 0}";
+			sepNavVisRange = "{1560, 842}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CF33D574117F6CF90071CBB1 /* SimpleGame */;
+		activeSDKPreference = iphoneos3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SimpleGame */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SimpleGame */,
+		);
+		codeSenseManager = CF33D580117F6D020071CBB1 /* Code sense */;
+		executables = (
+			CF33D574117F6CF90071CBB1 /* SimpleGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					229,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					840,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					355,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298393414;
+			PBXWorkspaceStateSaveDate = 298393414;
+		};
+		perUserProjectItems = {
+			CF03572011BFEA2900DFE477 /* PBXBookmark */ = CF03572011BFEA2900DFE477 /* PBXBookmark */;
+			CF1BE05711834FC100BDA1AA /* PlistBookmark */ = CF1BE05711834FC100BDA1AA /* PlistBookmark */;
+			CF1BE05911834FC100BDA1AA /* PBXTextBookmark */ = CF1BE05911834FC100BDA1AA /* PBXTextBookmark */;
+			CF1BE05A11834FC100BDA1AA /* PBXTextBookmark */ = CF1BE05A11834FC100BDA1AA /* PBXTextBookmark */;
+			CF1BE05B11834FC100BDA1AA /* PBXBookmark */ = CF1BE05B11834FC100BDA1AA /* PBXBookmark */;
+			CF1BE05E11834FC100BDA1AA /* PBXTextBookmark */ = CF1BE05E11834FC100BDA1AA /* PBXTextBookmark */;
+			CF1D1D3111823A740094B736 /* PBXBookmark */ = CF1D1D3111823A740094B736 /* PBXBookmark */;
+			CF4C9F8C11BEBF4C00293A8F /* PBXTextBookmark */ = CF4C9F8C11BEBF4C00293A8F /* PBXTextBookmark */;
+			CF4C9F8D11BEBF4C00293A8F /* PBXTextBookmark */ = CF4C9F8D11BEBF4C00293A8F /* PBXTextBookmark */;
+			CFA5F37511C9242000506535 /* PBXBookmark */ = CFA5F37511C9242000506535 /* PBXBookmark */;
+			CFA73D4A1180443C000C6781 /* PBXBookmark */ = CFA73D4A1180443C000C6781 /* PBXBookmark */;
+			CFA73D4C1180443C000C6781 /* PBXBookmark */ = CFA73D4C1180443C000C6781 /* PBXBookmark */;
+			CFB084B61183082800CBC23A /* PBXBookmark */ = CFB084B61183082800CBC23A /* PBXBookmark */;
+			CFE7FAC311BFD0E7006DDCB1 /* PBXTextBookmark */ = CFE7FAC311BFD0E7006DDCB1 /* PBXTextBookmark */;
+			CFE7FAC411BFD0E7006DDCB1 /* PBXBookmark */ = CFE7FAC411BFD0E7006DDCB1 /* PBXBookmark */;
+			CFE7FAC511BFD0E7006DDCB1 /* PBXBookmark */ = CFE7FAC511BFD0E7006DDCB1 /* PBXBookmark */;
+			CFE7FAC611BFD0E7006DDCB1 /* PBXBookmark */ = CFE7FAC611BFD0E7006DDCB1 /* PBXBookmark */;
+			CFE7FAC711BFD0E7006DDCB1 /* PBXBookmark */ = CFE7FAC711BFD0E7006DDCB1 /* PBXBookmark */;
+			CFE7FAC811BFD0E7006DDCB1 /* PBXBookmark */ = CFE7FAC811BFD0E7006DDCB1 /* PBXBookmark */;
+			CFE7FAC911BFD0E7006DDCB1 /* PBXBookmark */ = CFE7FAC911BFD0E7006DDCB1 /* PBXBookmark */;
+			CFE7FACA11BFD0E7006DDCB1 /* PBXBookmark */ = CFE7FACA11BFD0E7006DDCB1 /* PBXBookmark */;
+			CFE7FACB11BFD0E7006DDCB1 /* PBXBookmark */ = CFE7FACB11BFD0E7006DDCB1 /* PBXBookmark */;
+		};
+		sourceControlManager = CF33D57F117F6D020071CBB1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 234}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{71, 292}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* SimpleGame_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 145}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 189}";
+		};
+	};
+	CF03572011BFEA2900DFE477 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CF33D5A7117F774A0071CBB1 /* cloud1.png */;
+	};
+	CF1BDF9211833E5600BDA1AA /* info.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	CF1BE05711834FC100BDA1AA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SimpleGame-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarHidden,
+		);
+		name = "/Users/diederikbooij/Iphone:Mac Applications/SimpleGame-1/SimpleGame-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CF1BE05911834FC100BDA1AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SimpleGame_Prefix.pch */;
+		name = "SimpleGame_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	CF1BE05A11834FC100BDA1AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 292;
+		vrLoc = 71;
+	};
+	CF1BE05B11834FC100BDA1AA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CF1BE02D1183456A00BDA1AA /* scoreview.png */;
+	};
+	CF1BE05E11834FC100BDA1AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SimpleGameViewController.h */;
+		name = "SimpleGameViewController.h: 20";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 1505;
+	};
+	CF1D1D3111823A740094B736 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 51C33D1211449B6C00D5FFD8 /* ball.png */;
+	};
+	CF33D574117F6CF90071CBB1 /* SimpleGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleGame;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CF33D57F117F6D020071CBB1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CF33D580117F6D020071CBB1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CF4C9F8C11BEBF4C00293A8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SimpleGameAppDelegate.m */;
+		name = "SimpleGameAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 400;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	CF4C9F8D11BEBF4C00293A8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SimpleGameAppDelegate.h */;
+		name = "SimpleGameAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 450;
+		vrLoc = 46;
+	};
+	CFA5F37511C9242000506535 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CF33D5A7117F774A0071CBB1 /* cloud1.png */;
+	};
+	CFA73D4A1180443C000C6781 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 51DA68051175626D00FD9E25 /* BackgroundOne.png */;
+	};
+	CFA73D4C1180443C000C6781 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 51C33D0A11449B4900D5FFD8 /* Background.png */;
+	};
+	CFB084B61183082800CBC23A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CF33D582117F6D130071CBB1 /* platform 2.png */;
+	};
+	CFE7FAC311BFD0E7006DDCB1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleGameViewController.m */;
+		name = "SimpleGameViewController.m: 125";
+		rLen = 0;
+		rLoc = 3183;
+		rType = 0;
+		vrLen = 842;
+		vrLoc = 1560;
+	};
+	CFE7FAC411BFD0E7006DDCB1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CFB08494118306B800CBC23A /* Default.png */;
+	};
+	CFE7FAC511BFD0E7006DDCB1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CF33D5AB117F77520071CBB1 /* cloud3.png */;
+	};
+	CFE7FAC611BFD0E7006DDCB1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CF33D59F117F73810071CBB1 /* Background2.png */;
+	};
+	CFE7FAC711BFD0E7006DDCB1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CF33D599117F724B0071CBB1 /* BackgroundNew.png */;
+	};
+	CFE7FAC811BFD0E7006DDCB1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CF33D581117F6D130071CBB1 /* platform.png */;
+	};
+	CFE7FAC911BFD0E7006DDCB1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CF1BDF9211833E5600BDA1AA /* info.png */;
+	};
+	CFE7FACA11BFD0E7006DDCB1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CFA427BD1180410300CAB27F /* platform 4.png */;
+	};
+	CFE7FACB11BFD0E7006DDCB1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = CF33D5A9117F774E0071CBB1 /* cloud2.png */;
+	};
+}
